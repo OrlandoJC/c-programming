@@ -36,4 +36,5 @@ void main(){
     printf("quotient of number_1 and number_2 = %f \n", div);
     printf("modulus of number_1 and number_2  = %d", mod);
 
+    
 }
