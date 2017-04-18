@@ -35,7 +35,6 @@ void main(){
 	
 	printf("\n\nThe perimeter is %d\n", perimeter);
 
-
 }
 
 int its_a_rectangle(int w, int h){
