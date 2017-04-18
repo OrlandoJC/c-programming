@@ -39,6 +39,5 @@ void main(){
 }
 
 int its_a_rectangle(int w, int h){
-	if( w == h) return 0;
-	else return 1;
+	if( w != h) return 1;
 }
